@@ -1,4 +1,4 @@
-# ⚡ PowerGrid IT Service Management System (ITSM)
+# ⚡ Ticket Sphere IT Service Management System (ITSM)
 
 > **AI-Based Centralized IT Ticket Management System for POWERGRID**
 >
